@@ -1,0 +1,13 @@
+Credits und Lizenzen
+
+- Kartendaten: © OpenStreetMap-Mitwirkende, Open Database License (ODbL). https://www.openstreetmap.org/copyright
+- Höhendaten: Produced using Copernicus data and information funded by the European Union - EU-DEM layers
+  (EU-DEM 25 m, abgerufen über OpenTopoData).
+- Engine: Godot Engine, MIT-Lizenz (Text in GODOT-LIZENZ.txt). https://godotengine.org/license
+  Godot bringt eigene Schrift und weitere Komponenten mit, deren Lizenzen unter https://godotengine.org/license
+  und in der Datei COPYRIGHT.txt des Godot-Quelltexts (https://github.com/godotengine/godot) stehen.
+- Modelle, Shader, Code, Texte: eigene Arbeit von Friederich Bette (mit Unterstützung durch Claude von Anthropic).
+- Ton: keiner enthalten.
+
+Familiennamen im Spiel sind frei erfunden oder historisch üblich. Es kommen keine lebenden Personen vor.
+Die Chronik des Königs-Hofs und Johann König gen. Hölscher (1629) sind historisch.

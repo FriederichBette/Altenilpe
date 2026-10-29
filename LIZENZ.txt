@@ -1,0 +1,16 @@
+Altenilpe – Lizenz (Freeware)
+
+Copyright (c) 2026 Friederich Bette. Alle Rechte vorbehalten, soweit nicht unten erlaubt.
+
+Du darfst das Spiel
+- kostenlos spielen,
+- unverändert und vollständig (mit LIES-MICH.txt, LIZENZ.txt, CREDITS.txt und GODOT-LIZENZ.txt) kostenlos weitergeben,
+- in Videos, Streams und Berichten zeigen.
+
+Du darfst es nicht
+- verkaufen oder gegen Bezahlung anbieten,
+- verändert als eigenes Werk ausgeben.
+
+Das Spiel wird ohne jede Gewähr bereitgestellt.
+
+Bestandteile Dritter (Godot Engine, OpenStreetMap, Höhendaten) behalten ihre eigenen Lizenzen, siehe CREDITS.txt.
